@@ -1,0 +1,10 @@
+1. cd xxx			/* 进入路径*/
+2. dir				/* 显示路径*/
+3. makedir			/* 创建路径*/
+4. top				/* 显示进程*/
+5. mv xxx			/* 更改路径名称*/
+6. rm xxx			/* 删除文件*/
+7. tar xvf wordpress.tar 	/* 解压tar格式的文件*/
+8. tar -tvf myfile.tar 		/*查看tar文件中包含的文件 */
+9. gzip -d ge.tar.gz 		/* 解压.tar.gz文件为.tar文件 */
+10. unzip phpbb.zip 		/* 解压zip文件*/
